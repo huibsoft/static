@@ -1,6 +1,5 @@
 # 需要以管理员身份运行此脚本
 # 保存为 .ps1 文件，右键点击选择“使用 PowerShell 运行”
-chcp
 
 # 严格模式，帮助捕获潜在错误
 Set-StrictMode -Version Latest
